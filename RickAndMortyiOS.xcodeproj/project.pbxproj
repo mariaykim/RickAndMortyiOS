@@ -37,6 +37,7 @@
 		3AD1130B2AFC712D008748C6 /* RMCharacterDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AD1130A2AFC712D008748C6 /* RMCharacterDetailView.swift */; };
 		3AD1130D2AFC7184008748C6 /* RMFooterLoadingCollectionReusableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AD1130C2AFC7184008748C6 /* RMFooterLoadingCollectionReusableView.swift */; };
 		3AD113102AFCA3CD008748C6 /* RMCharacterDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AD1130F2AFCA3CD008748C6 /* RMCharacterDetailViewController.swift */; };
+		3AD113122AFD3ADD008748C6 /* RMImageLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AD113112AFD3ADD008748C6 /* RMImageLoader.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -72,6 +73,7 @@
 		3AD1130A2AFC712D008748C6 /* RMCharacterDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMCharacterDetailView.swift; sourceTree = "<group>"; };
 		3AD1130C2AFC7184008748C6 /* RMFooterLoadingCollectionReusableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMFooterLoadingCollectionReusableView.swift; sourceTree = "<group>"; };
 		3AD1130F2AFCA3CD008748C6 /* RMCharacterDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMCharacterDetailViewController.swift; sourceTree = "<group>"; };
+		3AD113112AFD3ADD008748C6 /* RMImageLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMImageLoader.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,6 +134,7 @@
 		3AD112D52AFBDF53008748C6 /* Managers */ = {
 			isa = PBXGroup;
 			children = (
+				3AD113112AFD3ADD008748C6 /* RMImageLoader.swift */,
 			);
 			path = Managers;
 			sourceTree = "<group>";
@@ -315,6 +318,7 @@
 				3AD112F92AFBECBC008748C6 /* RMCharacterGender.swift in Sources */,
 				3AD112E52AFBE108008748C6 /* RMCharacterViewController.swift in Sources */,
 				3AD112F52AFBEBF7008748C6 /* RMSingleLocation.swift in Sources */,
+				3AD113122AFD3ADD008748C6 /* RMImageLoader.swift in Sources */,
 				3AD112EB2AFBE144008748C6 /* RMLocationsViewController.swift in Sources */,
 				3AD112FF2AFC6E10008748C6 /* Extensions.swift in Sources */,
 				3AD1130B2AFC712D008748C6 /* RMCharacterDetailView.swift in Sources */,
